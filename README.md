@@ -1,3 +1,2 @@
-# Hello World 
-This is my first project on Github, oh sorry! I am just learning this
-I am learning
+# First Project
+# Author - Mohammad Hassam Makki
